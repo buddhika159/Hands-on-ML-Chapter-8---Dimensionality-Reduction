@@ -5,7 +5,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ## Description:
-This repository includes the dimensionality reduction techeniqes discussed in the book [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.knowledgeisle.com/wp-content/uploads/2019/12/2-Aur%C3%A9lien-G%C3%A9ron-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow_-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems-O%E2%80%99Reilly-Media-2019.pdf). Brefly, they are:
+This repository includes the dimensionality reduction techeniqes discussed in the book [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.knowledgeisle.com/wp-content/uploads/2019/12/2-Aur%C3%A9lien-G%C3%A9ron-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow_-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems-O%E2%80%99Reilly-Media-2019.pdf) chapter 8. Brefly, they are:
 - PCA - Principal Component Analysis
 - Kernel PCA - Extension of PCA
 - LLE - Locally-Linear Embedding
