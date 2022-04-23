@@ -37,7 +37,7 @@ In this exercise we look at the MNIST handwritten digit dataset and use above te
 </p>
 
 <p align="middle">
-  <img src="images/MNIST t-SNE" width="49%" />
+  <img src="images/MNIST t-SNE.png" width="49%" />
 </p>
 
 <p align="middle">
@@ -46,7 +46,7 @@ In this exercise we look at the MNIST handwritten digit dataset and use above te
 </p>
 
 <p align="middle">
-  <img src="images/MNIST Pipeline PCA + t-SNE="49%" />
+  <img src="images/MNIST Pipeline PCA + t-SNE.png" width="49%" />
 </p>
 
 
