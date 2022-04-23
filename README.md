@@ -18,13 +18,37 @@ Each of them have their own advantages of disadvantages depending on the dataset
 
 [Exercise 9](https://github.com/buddhika159/Hands-on-ML-Chapter-8---Dimensionality-Reduction/blob/4d6a0af9781cd8aca0837c3195442fdbd128b3ec/Exercise%209%20Effect%20of%20using%20PCA%20in%20model%20training.ipynb) 
 This discusses the effect of dimension reduciton in model training by using PCA for the MNIST handwritten digit dataset.
-- Random Forest classifier was used on the dataset and achieved `97\%` test accuracy.
-- Then PCA was used to reduce dimensionality before training with a new Random Forest classifier. It slowed down training and reduced performance to `94.81\%`.
-- When using PCA with softmax regression, we saw a x2 speedup with an accuracy of `92.55\%`.
+- Random Forest classifier was used on the dataset and achieved `97%` test accuracy.
+- Then PCA was used to reduce dimensionality before training with a new Random Forest classifier. It slowed down training and reduced performance to `94.81%`.
+- When using PCA with softmax regression, we saw a x2 speedup with an accuracy of `92.55%`.
 
 
 [Exercise 10](https://github.com/buddhika159/Hands-on-ML-Chapter-8---Dimensionality-Reduction/blob/4d6a0af9781cd8aca0837c3195442fdbd128b3ec/Exercise%2010%20PCA+t-SNE%20to%20reduce%20the%20MNIST%20dataset.ipynb)
 In this exercise we look at the MNIST handwritten digit dataset and use above techniques to visualize. Below shows the results of implementations.
+
+<p align="middle">
+  <img src="imges/MNIST PCA.png" width="49%" />
+  <img src="imges/MNIST LLE.png" width="49%" /> 
+</p>
+
+<p align="middle">
+  <img src="imges/MNIST LDA.png" width="49%" />
+  <img src="imges/MNIST MDS.png" width="49%" /> 
+</p>
+
+<p align="middle">
+  <img src="imges/MNIST t-SNE" width="49%" />
+</p>
+
+<p align="middle">
+  <img src="imges/MNIST Pipeline PCA + LLE.png" width="49%" />
+  <img src="imges/MNIST Pipeline PCA + MDS.png" width="49%" /> 
+</p>
+
+<p align="middle">
+  <img src="MNIST Pipeline PCA + t-SNE="49%" />
+</p>
+
 
 
 ## Prerequisites:
