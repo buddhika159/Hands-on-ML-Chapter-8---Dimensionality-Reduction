@@ -6,13 +6,13 @@
 
 ## Description:
 This repository includes the dimensionality reduction techeniqes discussed in the book [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.knowledgeisle.com/wp-content/uploads/2019/12/2-Aur%C3%A9lien-G%C3%A9ron-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow_-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems-O%E2%80%99Reilly-Media-2019.pdf) chapter 8. Brefly, they are:
-- PCA - Principal Component Analysis
-- Kernel PCA - Extension of PCA
-- LLE - Locally-Linear Embedding
+- **PCA** - Principal Component Analysis
+- **Kernel PCA** - Extension of PCA
+- **LLE** - Locally-Linear Embedding
 - Other Dimensionality Reduction Techniques with Scikit-Learn
-    - t-SNE - t-distributed Stochastic Neighbor Embedding
-    - MDS
-    - Isomap
+    - **t-SNE** - t-distributed Stochastic Neighbor Embedding
+    - **MDS**
+    - **Isomap**
 Each of them have their own advantages of disadvantages depending on the dataset. They are discussed in [The summary of Chapter 8](https://github.com/buddhika159/Hands-on-ML-Chapter-8---Dimensionality-Reduction/blob/d5e413bc21ac61e87c9f6d14838ca68c8bb9f60d/Dimensionality%20Reduction%20Techniques%20Comparison.ipynb). Overall, for class data visualization `t-SNE` technique shows much better results. 
 
 
