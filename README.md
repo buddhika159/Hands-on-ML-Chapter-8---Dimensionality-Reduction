@@ -24,29 +24,29 @@ This discusses the effect of dimension reduciton in model training by using PCA 
 
 
 [Exercise 10](https://github.com/buddhika159/Hands-on-ML-Chapter-8---Dimensionality-Reduction/blob/4d6a0af9781cd8aca0837c3195442fdbd128b3ec/Exercise%2010%20PCA+t-SNE%20to%20reduce%20the%20MNIST%20dataset.ipynb)
-In this exercise we look at the MNIST handwritten digit dataset and use above techniques to visualize. Below shows the results of implementations.
+In this exercise we look at the MNIST handwritten digit dataset and use above techniques to visualize. Below shows the results of implementations. To speedup the process and reduce few missc-lassifiers, we can use a pipeline to combine them.
 
 <p align="middle">
-  <img src="imges/MNIST PCA.png" width="49%" />
-  <img src="imges/MNIST LLE.png" width="49%" /> 
+  <img src="images/MNIST PCA.png" width="49%" />
+  <img src="images/MNIST LLE.png" width="49%" /> 
 </p>
 
 <p align="middle">
-  <img src="imges/MNIST LDA.png" width="49%" />
-  <img src="imges/MNIST MDS.png" width="49%" /> 
+  <img src="images/MNIST LDA.png" width="49%" />
+  <img src="images/MNIST MDS.png" width="49%" /> 
 </p>
 
 <p align="middle">
-  <img src="imges/MNIST t-SNE" width="49%" />
+  <img src="images/MNIST t-SNE" width="49%" />
 </p>
 
 <p align="middle">
-  <img src="imges/MNIST Pipeline PCA + LLE.png" width="49%" />
-  <img src="imges/MNIST Pipeline PCA + MDS.png" width="49%" /> 
+  <img src="images/MNIST Pipeline PCA + LLE.png" width="49%" />
+  <img src="images/MNIST Pipeline PCA + MDS.png" width="49%" /> 
 </p>
 
 <p align="middle">
-  <img src="MNIST Pipeline PCA + t-SNE="49%" />
+  <img src="images/MNIST Pipeline PCA + t-SNE="49%" />
 </p>
 
 
