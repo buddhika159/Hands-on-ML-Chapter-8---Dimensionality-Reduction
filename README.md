@@ -13,7 +13,7 @@ This repository includes the dimensionality reduction techeniqes discussed in th
     - **t-SNE** - t-distributed Stochastic Neighbor Embedding
     - **MDS**
     - **Isomap**
-Each of them have their own advantages of disadvantages depending on the dataset. They are discussed in [The summary of Chapter 8](https://github.com/buddhika159/Hands-on-ML-Chapter-8---Dimensionality-Reduction/blob/d5e413bc21ac61e87c9f6d14838ca68c8bb9f60d/Dimensionality%20Reduction%20Techniques%20Comparison.ipynb). Overall, for class data visualization `t-SNE` technique shows much better results. 
+Each of them have their own advantages or disadvantages depending on the dataset. They are discussed in [The summary of Chapter 8](https://github.com/buddhika159/Hands-on-ML-Chapter-8---Dimensionality-Reduction/blob/d5e413bc21ac61e87c9f6d14838ca68c8bb9f60d/Dimensionality%20Reduction%20Techniques%20Comparison.ipynb). Overall, for class data visualization `t-SNE` technique shows much better results. 
 
 
 [Exercise 9](https://github.com/buddhika159/Hands-on-ML-Chapter-8---Dimensionality-Reduction/blob/4d6a0af9781cd8aca0837c3195442fdbd128b3ec/Exercise%209%20Effect%20of%20using%20PCA%20in%20model%20training.ipynb) 
